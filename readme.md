@@ -8,6 +8,9 @@ should have rounded-off values of the corresponding ratings. Ratings should be
 rounded-off to the nearest natural number.
 
 #### To run
+
+0. install pandas, zipfile
+
 1. run   `flask app`
 
 2. open `http://localhost:5000/` & upload " appdatatask.csv" file
